@@ -29,6 +29,9 @@ display: none;
 .face {
 	width: 100%;
 	height: 100vw;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .spacing{
@@ -97,4 +100,5 @@ display: none;
 .B {background-color:#282828;}
 .C {background-color:#3f3f3f;}
 .D {background-color:#5b5b5b;}
-
+.willyA {content:url(images/willyA.png);}
+.willyD {content:url(images/willyD.png);}
