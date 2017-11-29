@@ -114,9 +114,12 @@ display: none;
 	}
 }
 
+.centerimg {
+	height:90%;
+}
+
 .A {background-color:#000000;}
 .B {background-color:#282828;}
 .C {background-color:#3f3f3f;}
 .D {background-color:#5b5b5b;}
-.willyA {content:url(images/willyA.png);}
-.willyD {content:url(images/willyD.png);}
+
